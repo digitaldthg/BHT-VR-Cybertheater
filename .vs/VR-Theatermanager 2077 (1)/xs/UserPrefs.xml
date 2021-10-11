@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{50B25A36-630E-CABC-AB6E-5173C1AB9240}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AddToTruck.cs">
+    <Files>
+      <File FileName="Assets/CheckAllObjects.cs" Line="22" Column="6" />
+      <File FileName="Assets/AddToTruck.cs" Line="17" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="30d494f7-5325-47fe-af2f-0fb4a50558c5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
